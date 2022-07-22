@@ -31,3 +31,11 @@ This process only applies on server
 Then it'll open our website on your localhost: 3001/3000 
 
 # TheGoodPlates
+
+Worked with - 
+Becky Yu
+Ryan Keith
+Alex He 
+Maria Penno 
+Lunxiao Li
+Becky Yu
